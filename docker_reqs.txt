@@ -4,3 +4,4 @@ prettytable==0.7.2
 instagram-private-api==1.6.0
 gnureadline>=8.0.0
 hikerapi==1.7.1
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
